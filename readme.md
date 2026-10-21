@@ -243,5 +243,3 @@ DB_PASSWORD=your_password
 5. Update the project documentation when behavior changes.
 6. Use meaningful commit messages.
 7. Open a pull request with a clear summary and testing notes.
-
-## Devarakonda Ashresh Kumar
